@@ -1,4 +1,4 @@
-Hyve
+<img align="left" height="60" src="https://raw.githubusercontent.com/mkobar/hyve-public/master/resources/hyve-logo.jpg">Hyve
 ===============
 
 Startup Weekend New Haven CT at Yale 2014
